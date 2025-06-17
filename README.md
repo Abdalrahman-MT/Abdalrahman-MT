@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdalrahman Tawfik</h1>
 <h3 align="center">Fresh Graduate Engineer | Communication & Networks Enthusiast</h3>
 
-- 🌱 I’m currently learning **mobile communication courses.**
+- 🌱 I’m currently learning **mobile communication courses (GSM,GPRS & EDGE From A to Z
+).**
 
 - 📫 How to reach me **abdalrahman.mt10@gmail.com**
 
