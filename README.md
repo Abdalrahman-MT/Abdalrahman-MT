@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **abdalrahman.mt10@gmail.com**
 
-- 📄 Know about my experiences [resume.pdf](Abdalrahman_Tawfik_CV.pdf)
+- 📄 Know about my experiences [resume.pdf](Abdalrahman_Mohammed_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
